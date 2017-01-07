@@ -7,6 +7,8 @@ var Nav = require('Nav');
 var Timer = require('Timer');
 var Countdown = require('Countdown');
 
+var Clock = require('Clock');
+
 
 
 //Load foundations
